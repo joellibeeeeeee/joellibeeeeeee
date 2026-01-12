@@ -1,5 +1,5 @@
 # 💫 print("Hello, I'm Jowan!")
-💻 Full-stack wannabe | 🐈 Cat | 💜 Purple<br><br>🌙 Shoot for the moon. Even if you miss, you'll land among the stars.    
+Full-stack wannabe | Cat | Purple<br><br>🌙 Shoot for the moon. Even if you miss, you'll land among the stars.    
 
 
 ## 🌐 Socials:
