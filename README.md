@@ -1,5 +1,5 @@
 # 💫 print("Hello, I'm Jowan!")
-💻 Full-stack wannabe | 🐈 Cat | 💜 Purple<br><br>🌙 Shoot for the moon. Even if you miss, you'll land among the stars.    <br>☕ My bloodstream is 98% coffee, 2% semicolon errors.  <br><br>🧠 Currently learning:<br>📦 How to center a div *without selling my soul*  <br>🚀 Why my code works (or doesn’t... TBD)
+💻 Full-stack wannabe | 🐈 Cat | 💜 Purple<br><br>🌙 Shoot for the moon. Even if you miss, you'll land among the stars.    
 
 
 ## 🌐 Socials:
